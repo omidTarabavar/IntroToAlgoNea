@@ -3,7 +3,7 @@ using namespace std;
 int sum (int n,const int s[]);
 int main()
 {
-	int s[] = {1,2,3,4}; // 10
+	int s[] = {1,2,3,4};
 	cout << sum(4,s)<<endl;
 }
 int sum (int n,const int s[])
